@@ -11,6 +11,6 @@ Data associated with this project is available here: https://www.ncbi.nlm.nih.go
 
 Genome data is available at the following NCBI accession numbers JBEWWB000000000, JBEWWC000000000
 
-Annotation data is available here:
+Whole genome annotation data is available here: https://doi.org/10.5281/zenodo.15321351
 
 ![Alt text](https://github.com/peritob/Syzygium-luehmannii/blob/main/SL50_field_infected_2022.png)
