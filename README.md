@@ -7,5 +7,9 @@ A specimen was collected from a cultured plant on the 20 December 2022 by Peri T
 
 An original aim of the research was to build both a pathogen and host genome from a single sample with data from PacBio Sequel II and HiC sequencigng.  As the pathogen sequence output was too low, this was not possible and therefore the project changed to building a high quality reference genome and annotation for the plant species.
 
+Data associated with this project is available here: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1099473
 
+Genome data is available at the following NCBI accessions: PRJNA1111597 JBEWWB000000000, PRJNA1111668 JBEWWC000000000 
+
+Annotation data is available here:
 ![Alt text](https://github.com/peritob/Syzygium-luehmannii/blob/main/SL50_field_infected_2022.png)
