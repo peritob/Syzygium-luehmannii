@@ -9,7 +9,7 @@ An original aim of the research was to build both a pathogen and host genome fro
 
 Data associated with this project is available here: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1099473
 
-Genome data is available at the following NCBI accessions: PRJNA1111597, PRJNA1111668
+Genome data is available at the following NCBI accession numbers JBEWWB000000000, JBEWWC000000000
 
 Annotation data is available here:
 
