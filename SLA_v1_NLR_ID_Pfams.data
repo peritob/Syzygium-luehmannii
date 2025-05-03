@@ -1,0 +1,120 @@
+g4729.t1	PF22936	Pol polyprotein, beta-barrel domain	487	569
+g4729.t1	PF14223	gag-polypeptide of LTR copia-type	260	397
+g4729.t1	PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	1052	1296
+g4729.t1	PF13976	GAG-pre-integrase domain	620	671
+g4729.t1	PF00665	Integrase core domain	687	794
+g7315.t1	PF00370	FGGY family of carbohydrate kinases, N-terminal domain	1384	1521
+g7315.t1	PF00370	FGGY family of carbohydrate kinases, N-terminal domain	1243	1355
+g7315.t1	PF02782	FGGY family of carbohydrate kinases, C-terminal domain	1530	1728
+g13478.t1	PF16363	GDP-mannose 4,6 dehydratase	920	992
+g13478.t1	PF16363	GDP-mannose 4,6 dehydratase	994	1043
+g1502.t1	PF23952	Endo-beta-N-acetylglucosaminidase EndoS LRR domain	1198	1277
+g1761.t1	PF13966	zinc-binding in reverse transcriptase	1648	1720
+g3639.t1	PF14223	gag-polypeptide of LTR copia-type	1712	1841
+g3639.t1	PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	2367	2475
+g3639.t1	PF00665	Integrase core domain	2088	2174
+g3639.t1	PF22936	Pol polyprotein, beta-barrel domain	1944	2023
+g688.t1	PF20160	C-JID domain	923	1047
+g6240.t1	PF20160	C-JID domain	879	1001
+g9620.t1	PF00847	AP2 domain	819	861
+g9179.t1	PF04515	Plasma-membrane choline transporter	1632	1695
+g6305.t1	PF00665	Integrase core domain	544	640
+g6305.t1	PF22936	Pol polyprotein, beta-barrel domain	354	431
+g6305.t1	PF13976	GAG-pre-integrase domain	479	526
+g6305.t1	PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	901	1139
+g3035.t1	PF22936	Pol polyprotein, beta-barrel domain	1223	1300
+g3035.t1	PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	1697	1943
+g3035.t1	PF13976	GAG-pre-integrase domain	1330	1397
+g3035.t1	PF14223	gag-polypeptide of LTR copia-type	1085	1137
+g2920.t1	PF00069	Protein kinase domain	59	312
+g3820.t1	PF20160	C-JID domain	1302	1425
+g13547.t1	PF00076	RNA recognition motif	21	78
+g13547.t1	PF13968	Domain of unknown function (DUF4220)	1239	1595
+g13547.t1	PF04578	Protein of unknown function, DUF594	1819	1871
+g4445.t1	PF00400	WD domain, G-beta repeat	2016	2052
+g3979.t1	PF00847	AP2 domain	426	475
+g10076.t1	PF13966	zinc-binding in reverse transcriptase	1498	1596
+g10076.t1	PF13456	Reverse transcriptase-like	1703	1826
+g1386.t1	PF00582	Universal stress protein family	1479	1543
+g3826.t1	PF20160	C-JID domain	3433	3554
+g3826.t1	PF20160	C-JID domain	1009	1132
+g3826.t1	PF20160	C-JID domain	2168	2289
+g1738.t1	PF13966	zinc-binding in reverse transcriptase	1478	1538
+g1738.t1	PF06026	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	1629	1697
+g2661.t1	PF00400	WD domain, G-beta repeat	1269	1300
+g2661.t1	PF00400	WD domain, G-beta repeat	1409	1453
+g2661.t1	PF00400	WD domain, G-beta repeat	1468	1503
+g2661.t1	PF00400	WD domain, G-beta repeat	1356	1394
+g2661.t1	PF00400	WD domain, G-beta repeat	1309	1347
+g5261.t1	PF02458	Transferase family	1182	1622
+g1759.t1	PF06026	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	1410	1480
+g10791.t1	PF07993	Male sterility protein	45	91
+g3437.t1	PF13966	zinc-binding in reverse transcriptase	1300	1355
+g2707.t1	PF00098	Zinc knuckle	665	681
+g2707.t1	PF03732	Retrotransposon gag protein	467	565
+g6238.t1	PF20160	C-JID domain	749	872
+g2914.t1	PF07714	Protein tyrosine and serine/threonine kinase	64	180
+g2914.t1	PF10409	C2 domain of PTEN tumour-suppressor protein	543	683
+g4539.t1	PF23952	Endo-beta-N-acetylglucosaminidase EndoS LRR domain	1081	1161
+g1200.t1	PF13966	zinc-binding in reverse transcriptase	973	1041
+g10240.t1	PF07714	Protein tyrosine and serine/threonine kinase	1025	1243
+g8556.t1	PF00067	Cytochrome P450	1664	1755
+g6189.t1	PF05678	VQ motif	175	200
+g2926.t1	PF00069	Protein kinase domain	33	178
+g10559.t1	PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	346	590
+g9394.t1	PF04408	Helicase associated domain (HA2), winged-helix	167	195
+g10508.t1	PF13968	Domain of unknown function (DUF4220)	1078	1466
+g10508.t1	PF04578	Protein of unknown function, DUF594	1724	1777
+g3247.t1	PF20160	C-JID domain	992	1114
+g1737.t1	PF06026	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	1343	1415
+g2940.t1	PF10409	C2 domain of PTEN tumour-suppressor protein	138	277
+g12611.t1	PF20160	C-JID domain	965	1085
+g2941.t1	PF10409	C2 domain of PTEN tumour-suppressor protein	566	701
+g2941.t1	PF07714	Protein tyrosine and serine/threonine kinase	59	188
+g2922.t1	PF00069	Protein kinase domain	68	306
+g2922.t1	PF10409	C2 domain of PTEN tumour-suppressor protein	533	672
+g10752.t1	PF20160	C-JID domain	932	1053
+g2936.t1	PF07714	Protein tyrosine and serine/threonine kinase	59	315
+g6850.t1	PF00875	DNA photolyase	999	1076
+g13475.t1	PF16363	GDP-mannose 4,6 dehydratase	1085	1159
+g3282.t1	PF02892	BED zinc finger	247	282
+g8039.t1	PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	137	181
+g7046.t1	PF16211	C-terminus of histone H2A	1041	1074
+g3961.t1	PF01277	Oleosin	30	105
+g7315.t2	PF00370	FGGY family of carbohydrate kinases, N-terminal domain	1373	1510
+g7315.t2	PF00370	FGGY family of carbohydrate kinases, N-terminal domain	1232	1344
+g7315.t2	PF02782	FGGY family of carbohydrate kinases, C-terminal domain	1519	1717
+g4722.t1	PF03732	Retrotransposon gag protein	1128	1206
+g14955.t1	PF13962	Domain of unknown function	967	1070
+g3818.t1	PF20160	C-JID domain	991	1115
+g1321.t1	PF02089	Palmitoyl protein thioesterase	1275	1313
+g1765.t1	PF13966	zinc-binding in reverse transcriptase	1558	1636
+g9145.t1	PF00076	RNA recognition motif	993	1060
+g9145.t1	PF00076	RNA recognition motif	1086	1154
+g9145.t1	PF20160	C-JID domain	785	856
+g11885.t1	PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	653	754
+g11885.t1	PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	756	829
+g11885.t1	PF14223	gag-polypeptide of LTR copia-type	333	467
+g11885.t1	PF22936	Pol polyprotein, beta-barrel domain	570	650
+g11885.t1	PF00098	Zinc knuckle	513	529
+g1751.t1	PF13966	zinc-binding in reverse transcriptase	1611	1672
+g1751.t1	PF06026	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	1760	1830
+g8605.t1	PF00646	F-box domain	2	38
+g8605.t1	PF23622	At1g61320/AtMIF1, LRR domain	130	272
+g3965.t1	PF03055	Retinal pigment epithelial membrane protein	1274	1353
+g10754.t1	PF20160	C-JID domain	895	1017
+g1803.t1	PF00861	Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast	1643	1746
+g3930.t1	PF10217	Uncharacterized conserved protein (DUF2039)	1163	1201
+g6251.t1	PF20160	C-JID domain	730	856
+g3544.t1	PF22922	NLP protein GAF domain	1536	1635
+g3544.t1	PF22922	NLP protein GAF domain	1485	1523
+g3700.t1	PF03106	WRKY DNA -binding domain	1268	1325
+g3700.t1	PF03106	WRKY DNA -binding domain	1104	1160
+g3947.t1	PF01883	Iron-sulfur cluster assembly protein	1296	1368
+g6319.t1	PF03110	SBP domain	119	149
+g6319.t2	PF03110	SBP domain	119	149
+g1287.t1	PF02089	Palmitoyl protein thioesterase	1276	1314
+g3249.t1	PF20160	C-JID domain	980	1099
+g2548.t1	PF12481	Aluminium induced protein	1562	1686
+g2548.t1	PF12481	Aluminium induced protein	1718	1759
+g2840.t1	PF00081	Iron/manganese superoxide dismutases, alpha-hairpin domain	1042	1091
