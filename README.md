@@ -7,7 +7,7 @@ A specimen was collected from a cultured plant on the 20 December 2022 by Peri T
 
 An original aim of the research was to build both a pathogen and host genome from a single sample with data from PacBio Sequel II and HiC sequencing.  As the pathogen sequence output was too low, this was not possible and therefore the project changed to building a high quality reference genome and annotation for the plant species.
 
-Acknowledgements: Peri Tobias initiated the research, sourced funding, inoculated and scored the plants for infection phenotype, processed the data, assembled and annotated the genomes. Jacob Downs extracted the High Molecular Weight DNA from infected leaves and cross-linked the leaf material for HiC libraries. Alyssa Martino inoculated the plant for infection using the Au3 pandemic strain of _Austropuccinia psidii_. Richard Edwards ran genome assemblies through contamination screening.
+Acknowledgements: Peri Tobias initiated the research, sourced funding, inoculated and scored the plants for infection phenotype, processed the data, assembled and annotated the genomes. Jacob Downs extracted the High Molecular Weight DNA from infected leaves and cross-linked the leaf material for HiC libraries. Alyssa Martino inoculated the plant for infection using the Au3 pandemic strain of _Austropuccinia psidii_. Richard Edwards ran genome assemblies through contamination screening. A manuscript describing the results of this work is in progress. 
 
 Data associated with this project is available here: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1099473
 
